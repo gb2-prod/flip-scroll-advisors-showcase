@@ -80,7 +80,7 @@ const ScrollingAdvisors = () => {
   return (
     <section className="bg-[#0D2032] text-white py-16 overflow-hidden">
       <div className="container mx-auto px-4 mb-12">
-        <p className="uppercase text-sm tracking-wider mb-2">MEET OUR FINANCIAL EXPERTS</p>
+        <p className="uppercase text-sm tracking-wider mb-2 text-gray-300">MEET OUR FINANCIAL EXPERTS</p>
         <h2 className="text-4xl font-bold mb-12">Know your Dedicated Financial Advisor</h2>
       </div>
 
